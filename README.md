@@ -43,8 +43,7 @@ This project focuses on **API integration, JavaScript logic, and responsive UI d
 ## 🌐 Live Demo
 
 🔗 **Live Website:**  
-_Coming soon_ 🚀  
-(Will be updated after deployment)
+https://apurv1512.github.io/PRODIGY_WD_05/
 
 ---
 
